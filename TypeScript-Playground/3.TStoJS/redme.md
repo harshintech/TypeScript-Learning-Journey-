@@ -1,3 +1,5 @@
+first use `npm init -y`
+
 use only tsc for "strict mode"
 ->you also use `ts-node "file_name"` Here
 
